@@ -1,0 +1,17 @@
+# Rust build output
+/target
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Debug / profiling output
+*.pdb
+*.rdc
