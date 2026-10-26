@@ -9,8 +9,6 @@ A real-time 3D scene built with [wgpu](https://wgpu.rs): a textured, lit cube dr
 
 This is the second part of a step-by-step wgpu series. Part 1 drew a triangle with its data hardcoded in the shader. Part 2 replaces that with the building blocks of a real renderer.
 
-![Part 2 screenshot](docs/part2.png)
-
 ## Features
 
 - Textured cube with per-face normals and simple diffuse lighting
